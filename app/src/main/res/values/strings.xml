@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="sign_in">Sign In</string>
+    <string name="title_text">Vibez</string>
+    <string name="app_name">Vibez</string>
+
+    <!-- User hint to type the name of a book in the search bar [CHAR LIMIT=20] -->
+    <string name="tooltip_search_button">Search"</string>
+
+    <!-- Content description for the search bar button view [CHAR LIMIT=NONE] -->
+    <string name="search_button_content_desc">Search button</string>
+
+    <!-- Title for the search interface in the landing page [CHAR LIMIT=20] -->
+
+
+    <!-- Content description for the front cover image of the book
+    in the book card view[CHAR LIMIT=NONE] -->
+    <string name="book_cover_image">Front Cover Image for the Book</string>
+
+    <!-- Text displayed for the Author radio filter [CHAR LIMIT=20]-->
+    <string name="author_radio_text">Author</string>
+
+    <!-- Text displayed for the Book title radio filter [CHAR LIMIT=20]-->
+    <string name="title_radio_text">Title</string>
+
+    <!-- Text displayed for the ISBN radio filter [CHAR LIMIT=20] -->
+    <string name="isbn_radio_text">ISBN</string>
+
+    <!-- Text to display for the empty state view
+    when there is no data to display [CHAR LIMIT=NONE] -->
+    <string name="no_books">No Books To Display</string>
+
+    <!-- Prompt user to enter text in the search bar before proceeding [CHAR LIMIT=NONE] -->
+    <string name="enter_text">Enter text before proceeding</string>
+
+    <!-- Error text message to display when the device has no access to the internet while
+    performing the search [CHAR LIMIT=NONE]-->
+    <string name="no_internet_connection">No Internet Connection.</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_home2">Home2</string>
+    <string name="title_activity_welcome">Vibez</string>
+</resources>
